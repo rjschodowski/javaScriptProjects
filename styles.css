@@ -209,9 +209,9 @@ main {
   border-radius: var(--radius);
   margin-bottom: 2.5rem;
 }
-.color {
+/* .color {
   color: var(--clr-primary-5);
-}
+} */
 .btn-hero {
   font-family: var(--ff-primary);
   text-transform: uppercase;
